@@ -15,7 +15,7 @@ export default function App() {
     // if (step > 1) setStep((s) => s - 1);
     // if (step > 1) setStep((s) => s - 1);
 
-    // NOT WORKING
+    // NOT WORKING || NOT SO GOOD PRACTICE
     // if (step > 1) setStep(step - 1);
     // if (step > 1) setStep(step - 1);
 
